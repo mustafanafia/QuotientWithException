@@ -5,6 +5,5 @@ all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
 PROJECT TITLE: Quotient With Exception
-PURPOSE OF PROJECT: Assignment
-VERSION or DATE: 9/5/2019
+DATE: 2019
 AUTHORS: Mustafa Nafia
